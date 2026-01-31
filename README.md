@@ -34,4 +34,4 @@ I am a results-driven developer with a background in **Backend Development (.NET
 ---
 
 ### 🔗 Let's Connect:
-[![www.linkedin.com/in/gogita-jgarkava-6885a2315]
+[![www.linkedin.com/in/gogita-jgarkava-6885a2315]]
