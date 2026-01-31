@@ -34,4 +34,4 @@ I am a results-driven developer with a background in **Backend Development (.NET
 ---
 
 ### 🔗 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](შენი-LINKEDIN-ლინკი-აქ)
+[![www.linkedin.com/in/gogita-jgarkava-6885a2315]
